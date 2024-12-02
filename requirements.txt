@@ -1,0 +1,8 @@
+transformers
+sentence-transformers
+numpy
+regex
+pandas
+jira
+python-dotenv
+langchain
